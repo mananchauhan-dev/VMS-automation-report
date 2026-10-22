@@ -1,0 +1,1 @@
+{"items":[{"uid":"427b4b41d864828ec2a796ff8cad4ce4","name":"Confirm Listing flow","statistic":{"failed":5,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":5}},{"uid":"fd274b86c111a8eb029986154de423c5","name":"Request list on website flow","statistic":{"failed":2,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":5}}],"total":2}
